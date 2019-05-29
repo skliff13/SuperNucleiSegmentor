@@ -1,0 +1,6 @@
+pngPreviewsDir=/path/to/my/png_preview2
+outputDir=/path/to/my/nucleiOutput
+displayResize=0.7
+displayTileSize=190
+nTiles=2
+tileSizeStep=12
